@@ -1,0 +1,8 @@
+.login { text-align: center; margin-top: 150px; }
+.memories div { display: inline; }
+.memories img { height: 100px; margin-right: 5px; }
+.treePersonThumb { width: 44px; border-radius: 50%; }
+.personDetails { text-align: center; }
+.personDetails img { border-radius: 50%; }
+.panel .item-title { font-size: 20px; margin-bottom: 15px; padding-left: 20px; }
+.login { width: 300px; }
